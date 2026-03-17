@@ -1,0 +1,62 @@
+[
+    {
+        "#": "1",
+        "Categorie": "Principes et valeurs de la République française",
+        "Questions": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+        "Reponse": "\"Le jour de gloire est arrivé ; Contre nous de la tyrannie ; L'étendard sanglant est levé ; L'étendard sanglant est levé ; ...\"",
+        "Commentaire": "",
+        "FaussesRéponses": {
+            "0": "Vive le pain, le vin et le fromage !",
+            "1": "Le soleil brille sur la tour Eiffel aujourd'hui.",
+            "2": "La République est belle et nous appelle tous.",
+            "3": "Marchons ensemble vers un avenir meilleur.",
+            "4": "Aux armes citoyens, formez vos bataillons...",
+            "5": "Tremblez tyrans et vous perfides, l'opprobre de tous les partis...",
+            "6": "Amour sacré de la patrie, conduis, soutiens nos bras vengeurs...",
+            "7": "Le jour de paix est arrivé ; Contre nous de la tyrannie...",
+            "8": "Le jour de gloire est arrivé ; Contre nous de la monarchie...",
+            "9": "Le jour de gloire est arrivé ; Contre nous de la tyrannie ; L'étendard sanglant est baissé..."
+        }
+    },
+    {
+        "#": "3",
+        "Categorie": "Principes et valeurs de la République française",
+        "Questions": "Déclarer ses revenus aux services fiscaux est :",
+        "Reponse": "Obligatoire",
+        "Commentaire": "",
+        "FaussesRéponses": {
+            "0": "Strictement interdit par la loi française.",
+            "1": "Réservé uniquement au Président de la République.",
+            "2": "Seulement pour les personnes qui aiment faire des mathématiques.",
+            "3": "Facultatif, c'est seulement si on a envie de participer.",
+            "4": "Obligatoire seulement une fois tous les dix ans.",
+            "5": "Recommandé mais pas forcé par la loi.",
+            "6": "Obligatoire uniquement pour les propriétaires immobiliers.",
+            "7": "Optionnel si l'on est marié ou pacsé.",
+            "8": "Fortement conseillé pour éviter de payer des amendes.",
+            "9": "Obligatoire uniquement si l'on perçoit des revenus supérieurs au SMIC."
+        }
+    },
+    {
+        "#": "8",
+        "Categorie": "Principes et valeurs de la République française",
+        "Questions": "Lequel de ces symboles représente la République française ?",
+        "Reponse": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur",
+        "Commentaire": "",
+        "Images": [
+            "assets/images/image1.png"
+        ],
+        "FaussesRéponses": {
+            "0": "La baguette de pain · Le béret · Le vin rouge · Le camembert · La tour Eiffel",
+            "1": "Le drapeau anglais · L'hymne américain · Le 4 juillet · L'aigle · La couronne royale",
+            "2": "Le drapeau européen · L'hymne à la joie · La paix et l'amour · Le 1er mai · La colombe",
+            "3": "Le drapeau tricolore · La Marseillaise · Travail Famille Patrie · Le 11 novembre · Le lion",
+            "4": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 15 août · L'aigle impérial",
+            "5": "Le drapeau · Le chant des partisans · Liberté Egalité Fraternité · Le 14 juillet · Le coq",
+            "6": "Le drapeau · L'hymne national · Liberté Egalité Laïcité · Le 14 juillet · Le coq · Le faisceau de licteur",
+            "7": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · L'aigle · Le faisceau de licteur",
+            "8": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · La couronne de lauriers",
+            "9": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · L'arbre de la liberté"
+        }
+    }
+]
