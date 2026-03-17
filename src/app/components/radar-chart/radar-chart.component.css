@@ -1,0 +1,104 @@
+.radar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .radar-container {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 4rem;
+    }
+}
+
+.radar-svg {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    overflow: visible;
+}
+
+.web-line {
+    fill: var(--surface-color);
+    stroke: var(--border-color);
+    stroke-width: 1;
+}
+
+/* Optional: Make alternating web rings slightly darker/lighter */
+.web-line:nth-child(even) {
+    fill: rgba(0, 0, 0, 0.02);
+}
+
+.axis-line {
+    stroke: var(--border-color);
+    stroke-width: 1;
+    stroke-dasharray: 4 4;
+}
+
+/* The orange data area matching user's reference image */
+.data-area {
+    fill: rgba(250, 173, 20, 0.3);
+    /* Orange-yellow fill */
+    stroke: #faad14;
+    /* Solid orange border */
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.data-point {
+    fill: #faad14;
+    stroke: white;
+    stroke-width: 1.5;
+}
+
+.axis-icon {
+    font-size: 1.25rem;
+    fill: var(--text-primary);
+}
+
+/* Legend Styling */
+.legend {
+    background: var(--surface-color);
+    padding: 1.5rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    min-width: 250px;
+}
+
+.legend h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: var(--text-primary);
+}
+
+.legend ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.legend li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+}
+
+.legend-icon {
+    font-size: 1.1rem;
+    line-height: 1;
+}
+
+.legend-text {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.3;
+}

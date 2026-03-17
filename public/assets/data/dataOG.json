@@ -1,0 +1,1885 @@
+[
+  {
+    "#": "1",
+    "Questions": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "\"Le jour de gloire est arrivé ; Contre nous de la tyrannie ; L'étendard sanglant est levé ; L'étendard sanglant est levé ; ...\""
+  },
+  {
+    "#": "2",
+    "Questions": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Toute information ayant un lien direct et nécessaire avec l'emploi ou avec vos aptitudes professionnelles : qualification, expérience, diplômes, etc."
+  },
+  {
+    "#": "3",
+    "Questions": "Déclarer ses revenus aux services fiscaux est :",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Obligatoire"
+  },
+  {
+    "#": "4",
+    "Questions": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "?"
+  },
+  {
+    "#": "5",
+    "Questions": "La liberté d'association est :",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Un droit garanti par la loi (loi de 1901)"
+  },
+  {
+    "#": "6",
+    "Questions": "La liberté d'expression sur les réseaux sociaux en France est :",
+    "Commentaire": "Article 11 de la Déclaration des droits de l'homme et du citoyen de 1789 : « La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer ...\"",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Un droit garanti par la loi (liberté d'expression) ?"
+  },
+  {
+    "#": "7",
+    "Questions": "Lequel de ces prénoms évoque un symbole de la République ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Marianne"
+  },
+  {
+    "#": "8",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur"
+  },
+  {
+    "#": "9",
+    "Questions": "Où peut-on voir la devise de la République ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Sur les portes d'institutions publiques (mairie, école, etc.)"
+  },
+  {
+    "#": "10",
+    "Questions": "Lesquels sont des symboles officiels de la République française ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur"
+  },
+  {
+    "#": "11",
+    "Questions": "Peut-on brûler publiquement un drapeau français ?",
+    "Commentaire": "\"Le fait, au cours d'une manifestation organisée ou réglementée par les autorités publiques, d'outrager publiquement l'hymne national ou le drapeau tricolore est puni de 7500 euros d'amende\"",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Non, c'est interdit"
+  },
+  {
+    "#": "12",
+    "Questions": "Quand la sécurité sociale a-t-elle été établie en France ?",
+    "Commentaire": "Le  4 octobre 1945",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "1945"
+  },
+  {
+    "#": "13",
+    "Questions": "Que commémore la fête nationale ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La prise de la Bastille, le 14 juillet 1789"
+  },
+  {
+    "#": "14",
+    "Questions": "Que porte Marianne sur la tête ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image3.png"
+    ],
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Un bonnet phrygien"
+  },
+  {
+    "#": "15",
+    "Questions": "Que signifie le mot fraternité dans la devise française ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Tout citoyen français concourt à la défense et la cohésion de la Nation"
+  },
+  {
+    "#": "16",
+    "Questions": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image4.png"
+    ],
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Le coq"
+  },
+  {
+    "#": "17",
+    "Questions": "Quelle est la devise de la République française ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Liberté, Egalité, Fraternité"
+  },
+  {
+    "#": "18",
+    "Questions": "Qu'est-ce que la liberté d'association ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Le droit de pouvoir former une assocation (ONG, parti politique, syndicat, ...) avec d'autres personnes sans contrainte"
+  },
+  {
+    "#": "19",
+    "Questions": "Qu'est-ce qu'une liberté ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Pouvoir agir sans contrainte"
+  },
+  {
+    "#": "20",
+    "Questions": "Selon la Consitution, la France est une République ...",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Une République indivisible, laïque, démocratique et sociale"
+  },
+  {
+    "#": "21",
+    "Questions": "Sur quel document peut-on voir Marianne ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image5.png"
+    ],
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Sur les documents officiels, sur les timbres postaux, et sur certaines pièces de monnaie françaises en euro"
+  },
+  {
+    "#": "22",
+    "Questions": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+    "Commentaire": "\"L’égalité est un principe à valeur constitutionnelle. L'article 6 de la Déclaration des droits de l'homme et du citoyen dispose que \"la loi doit être la même pour tous\". Les personnes dans la même situation doivent être traitées de manière identique.\n\nLe code pénal sanctionne les distinctions fondées sur l'origine, le sexe, la situation de famille, la grossesse, l'apparence physique, la vulnérabilité résultant de leur situation économique, le nom, le lieu de résidence, l'état de santé, le handicap, l'orientation sexuelle, etc.\" \n\nSource : https://www.vie-publique.fr/dossier/276143-le-principe-degalite-droit-et-grands-enjeux-du-monde-contemporain#:~:text=L'%C3%A9galit%C3%A9%20est%20un%20principe,%C3%AAtre%20trait%C3%A9es%20de%20mani%C3%A8re%20identique.",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La loi doit être la même pour tous"
+  },
+  {
+    "#": "23",
+    "Questions": "Une personne peut-elle changer librement de religion en France ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Oui, c'est son droit"
+  },
+  {
+    "#": "24",
+    "Questions": "Selon le principe de laïcité, que signifie la neutralité de l'Etat ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Les agents de l'Etat ont l'obligation de ne pas exprimer leurs convictions personnelles mais sont libres d'en avoir"
+  },
+  {
+    "#": "25",
+    "Questions": "Que peut faire un usager du service public dans une mairie ?",
+    "Commentaire": "Autre réponse : droit d'exprimer des convictions religieuses, de porter des signes religieux",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Faire une démarche d'état civil (naissance, décès, mariage), démarche de papiers d'identité (Passeport, Carte Nationale d'Identité), ..."
+  },
+  {
+    "#": "26",
+    "Questions": "En France, il est possible pour l'État de financer :",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Toute organisation privée ou publique SAUF un culte/une religion"
+  },
+  {
+    "#": "27",
+    "Questions": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "1905"
+  },
+  {
+    "#": "28",
+    "Questions": "Que dit la loi de 1905 ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Elle garantit le libre exercice du culte et assure la neutralité de l'Etat vis-à-vis de l'ensemble des religions"
+  },
+  {
+    "#": "29",
+    "Questions": "Que garantit le principe de laïcité ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La neutralité de l'Etat vis-à-vis de l'ensemble des religions (loi de 1905)"
+  },
+  {
+    "#": "30",
+    "Questions": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Le 9 décembre (1905)"
+  },
+  {
+    "#": "31",
+    "Questions": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Aucun, que ce soit pour les professeurs que pour les élèves"
+  },
+  {
+    "#": "32",
+    "Questions": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Antisémitisme"
+  },
+  {
+    "#": "33",
+    "Questions": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La loi de 1905, sur la Séparation des Eglises et de l'Etat"
+  },
+  {
+    "#": "34",
+    "Questions": "Quelle institution française doit rester neutre en matière de religion ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "L'Etat, depuis la loi de 1905 sur la Séparation des Eglises et de l'Etat"
+  },
+  {
+    "#": "35",
+    "Questions": "Qu'est-ce que la laïcité ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La neutralité de l'Etat et impose l'égalité de tous devant la loi sans distinction de religion ou conviction"
+  },
+  {
+    "#": "36",
+    "Questions": "À l'école, la charte de la laïcité permet de :",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "La laïcité permet l'exercice de la liberté d'expression des élèves dans la limite du bon fonctionnement de l’École"
+  },
+  {
+    "#": "37",
+    "Questions": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Tout agent public ou de l'Etat"
+  },
+  {
+    "#": "38",
+    "Questions": "Une personne déclare ne croire en aucun dieu. On peut dire :",
+    "Commentaire": "",
+    "Categorie": "Principes et valeurs de la République française",
+    "Reponse": "Qu'elle ne se déclare d'aucun culte / qu'elle est athée"
+  },
+  {
+    "#": "39",
+    "Questions": "Comment est désigné le Premier ministre ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Nominé par le Président de la République"
+  },
+  {
+    "#": "40",
+    "Questions": "Qui peut se présenter aux élections présidentielles ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "avoir la nationalité française ; être âgé de 18 ans ; avoir la qualité d'électeur."
+  },
+  {
+    "#": "41",
+    "Questions": "À qui appartient la souveraineté nationale ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum"
+  },
+  {
+    "#": "42",
+    "Questions": "Qui est élu lors des élections municipales ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Les conseilleurs municipaux, qui élisent le maire"
+  },
+  {
+    "#": "43",
+    "Questions": "L'inscription sur les listes électorales est :",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Un droit, non obligatoire"
+  },
+  {
+    "#": "44",
+    "Questions": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "avoir la nationalité française ; être âgé de 18 ans ; être inscrit sur les listes électorales"
+  },
+  {
+    "#": "45",
+    "Questions": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "avoir la nationalité française ; être âgé de 18 ans"
+  },
+  {
+    "#": "46",
+    "Questions": "Parmi ces autorités, laquelle est élue ?",
+    "Commentaire": "Les sénateurs et maires sont élus, MAIS INDIRECTEMENT, par d'autres élus (et non pas au suffrage universel)",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le conseiller municipal, le Président de la République, les députés"
+  },
+  {
+    "#": "47",
+    "Questions": "Quelles sont les fonctions du maire ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le maire représente la commune à l'égard des tiers. Il est chargé de préparer et d'exécuter le budget et les délibérations du conseil municipa"
+  },
+  {
+    "#": "48",
+    "Questions": "Qui peut se présenter aux élections présidentielles ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "avoir la nationalité française ; être âgé de 18 ans ; avoir la qualité d'électeur."
+  },
+  {
+    "#": "49",
+    "Questions": "Une personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales pour pouvoir voter aux prochaines élections politiques. Où peut-elle s'inscrire ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "En se rendant sur place à la mairie ou par courier"
+  },
+  {
+    "#": "50",
+    "Questions": "À quel âge peut-on devenir électeur ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "18 ans"
+  },
+  {
+    "#": "51",
+    "Questions": "En France, est-ce obligatoire de voter ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Non, c'est un droit, pas une obligation"
+  },
+  {
+    "#": "52",
+    "Questions": "A-t-on le droit de ne pas respecter une loi ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Non, nul n'est censé ignorer la loi"
+  },
+  {
+    "#": "53",
+    "Questions": "Comment sont désignés les députés ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Par suffrage universel des citoyens français"
+  },
+  {
+    "#": "54",
+    "Questions": "Qui vote les lois ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le Parlement : les Députés de l'Assemblée Nationale et les Sénateurs"
+  },
+  {
+    "#": "55",
+    "Questions": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le pouvoir exécutif (le gouvernement), pouvoir législatif (le Parlement), et judiciaire (les juges)"
+  },
+  {
+    "#": "56",
+    "Questions": "Qu'est-ce que l'État de droit ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "La garantie que toutes les autorités publiques agissent toujours dans les limites fixées par la loi"
+  },
+  {
+    "#": "57",
+    "Questions": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "6 ans, comme les sénateurs"
+  },
+  {
+    "#": "58",
+    "Questions": "Qui est élu lors des élections législatives ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Les députés de l'Assemblée Nationale"
+  },
+  {
+    "#": "59",
+    "Questions": "Quelle est la durée du mandat du Président de la République française ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "5 ans, comme les députés"
+  },
+  {
+    "#": "60",
+    "Questions": "Quelle est la durée du mandat des députés ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "5 ans, comme le président"
+  },
+  {
+    "#": "61",
+    "Questions": "Quelle est la durée du mandat des sénateurs ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "6 ans, comme le maire et les conseillers municipaux"
+  },
+  {
+    "#": "62",
+    "Questions": "Qui dirige l'action du gouvernement ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le Premier Ministre"
+  },
+  {
+    "#": "63",
+    "Questions": "En France, est-ce possible d'adhérer à un parti politique ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Oui, c'est garanti par la liberté d'association (loi de 1901)"
+  },
+  {
+    "#": "64",
+    "Questions": "Qui sanctionne l'auteur d'un vol ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le juge, au tribunal correctionnel"
+  },
+  {
+    "#": "65",
+    "Questions": "Qui gère les collèges publics ?",
+    "Commentaire": "En lien avec le Ministère de l'Education Nationale",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le département"
+  },
+  {
+    "#": "66",
+    "Questions": "Qui gère les écoles primaires et maternelles publiques ?",
+    "Commentaire": "En lien avec le Ministère de l'Education Nationale",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le conseil municipal / La mairie"
+  },
+  {
+    "#": "67",
+    "Questions": "Comment sont désignés les maires ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Par les conseillers municipaux, élus par suffrage universel"
+  },
+  {
+    "#": "68",
+    "Questions": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "La région, en tant qu'Autorité Organisatrice de la Mobilité Régionale (AOMR)"
+  },
+  {
+    "#": "69",
+    "Questions": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Par référendum"
+  },
+  {
+    "#": "70",
+    "Questions": "Qui assure l'intérim du président de la République en cas de décès ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le Président du Sénat"
+  },
+  {
+    "#": "71",
+    "Questions": "Quel est le rôle du Conseil constitutionnel ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Garantir la constitutionnalité des lois votées : si une loi n'est pas constitutionnelle après vote par le Parlement, le Conseil l'annule"
+  },
+  {
+    "#": "72",
+    "Questions": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "avoir la nationalité française ; être âgé de 18 ans ; avoir la qualité d'électeur."
+  },
+  {
+    "#": "73",
+    "Questions": "Combien y a-t-il de départements en France ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "101 départements, pour 13 régions"
+  },
+  {
+    "#": "74",
+    "Questions": "Comment est organisé le découpage administratif de la France ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "101 départements, pour 13 régions ?"
+  },
+  {
+    "#": "75",
+    "Questions": "Qui représente l'État dans un département ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le préfet, symbole de l'autorité de l'Etat"
+  },
+  {
+    "#": "76",
+    "Questions": "Quel est le rôle du Président de la République",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Chef de l'État, chef des armées et chef de l'exécutif."
+  },
+  {
+    "#": "77",
+    "Questions": "Quel est le rôle du Premier ministre ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Il dirige l'action du gouvernement (les ministres)"
+  },
+  {
+    "#": "78",
+    "Questions": "Quel est le rôle du Défenseur des droits ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Veiller au respect des droits et libertés dans plusieurs secteurs (accès aux services publics, lutte contre la discrimination, protection des droits de l'enfant...)"
+  },
+  {
+    "#": "79",
+    "Questions": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "En 1992 (Traité de Maastricht)"
+  },
+  {
+    "#": "80",
+    "Questions": "Quel est le dernier Etat à avoir intégré l'Union Européenne en 2013 ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "La Croatie"
+  },
+  {
+    "#": "81",
+    "Questions": "Qui a composé l'hymne de l'Union européenne ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Ludwig van Beethoven, \"Ode à la Joie\""
+  },
+  {
+    "#": "82",
+    "Questions": "Quand est célébrée la journée de l'Europe ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "46151"
+  },
+  {
+    "#": "83",
+    "Questions": "Où est le siège de la Banque centrale européenne",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Francfort"
+  },
+  {
+    "#": "84",
+    "Questions": "Où est le siège de la Commission européenne ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Bruxelles"
+  },
+  {
+    "#": "85",
+    "Questions": "Qui siège au Parlement européen ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Les députés européens"
+  },
+  {
+    "#": "86",
+    "Questions": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Oui, aux élections municipales"
+  },
+  {
+    "#": "87",
+    "Questions": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+    "Commentaire": "Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "27 pays membres"
+  },
+  {
+    "#": "88",
+    "Questions": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "1992, Traité de Maastricht"
+  },
+  {
+    "#": "89",
+    "Questions": "Quel traité concerne la construction de l'Union européenne ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le Traité de Maastricht, signé en 1992"
+  },
+  {
+    "#": "90",
+    "Questions": "Quel État a quitté l'Union Européenne en 2020 ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Le Royaume Uni"
+  },
+  {
+    "#": "91",
+    "Questions": "Quelle est la devise de l'Union Européenne ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "L'euro"
+  },
+  {
+    "#": "92",
+    "Questions": "Quel est l'hymne de l'Union Européenne ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "L'Ode à la Joie"
+  },
+  {
+    "#": "93",
+    "Questions": "De quoi est composé le drapeau européen ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Il est composé d'un cercle de 12 étoiles dorées sur fond bleu, les 12 pays fondateurs de l'Union"
+  },
+  {
+    "#": "94",
+    "Questions": "Qui élit les députés européens ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Les électeurs de chaque pays membre, au suffrage universel"
+  },
+  {
+    "#": "95",
+    "Questions": "Où est le siège du Parlement européen ?",
+    "Commentaire": "",
+    "Categorie": "Système institutionnel et politique",
+    "Reponse": "Strasbourg"
+  },
+  {
+    "#": "96",
+    "Questions": "À quoi sert le droit de grève ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Pour exprimer des revendications professionnelles collectives"
+  },
+  {
+    "#": "97",
+    "Questions": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "La Raison d'Etat (= l'Etat estime nécessaire de restreindre des droits, ex : pour la sécurité)"
+  },
+  {
+    "#": "98",
+    "Questions": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "\"Les hommes naissent et demeurent libres et égaux en droits\" (Article 1)"
+  },
+  {
+    "#": "99",
+    "Questions": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne\nnuit pas à autrui\". Qu'est-ce que cela signifie ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Ma liberté s'arrête là où celle des autres commencent : je ne suis pas libre de faire du mal aux autres."
+  },
+  {
+    "#": "100",
+    "Questions": "Que dit l'article 1er de la Constitution française ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "La France est une République indivisible, laïque, démocratique et sociale"
+  },
+  {
+    "#": "101",
+    "Questions": "Que garantit la liberté de la presse ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "La possibilité de s'exprimer, de produire et de diffuser des informations, dans le respect des lois en vigueur"
+  },
+  {
+    "#": "102",
+    "Questions": "Que permet la liberté de circulation ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Le droit pour tout individu de se déplacer librement dans un pays, de quitter celui-ci et d'y revenir."
+  },
+  {
+    "#": "103",
+    "Questions": "Que signifie être citoyen d'un État ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Un membre de la communauté politique représenté par cet Etat, disposant de droits et de devoirs"
+  },
+  {
+    "#": "104",
+    "Questions": "Que sont les droits fondamentaux ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "La liberté, la propriété, la sûreté, et la résistance à l'oppression."
+  },
+  {
+    "#": "105",
+    "Questions": "Quel droit protège une personne contre une arrestation arbitraire ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Le droit à la sûreté / droit à la liberté"
+  },
+  {
+    "#": "106",
+    "Questions": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Déclaration des Droits de l'Homme et du Citoyen de 1789"
+  },
+  {
+    "#": "107",
+    "Questions": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Déclaration des Droits de l'Homme et du Citoyen de 1789"
+  },
+  {
+    "#": "108",
+    "Questions": "Quelle situation est une atteinte à la dignité humaine ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Toute situation où une personne est amenée à subir ou commettre des actes humiliants/dégradants (ex : prostitution)"
+  },
+  {
+    "#": "109",
+    "Questions": "Qu'est-ce que la liberté d'expression ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Le droit d'exprimer librement ses opinions"
+  },
+  {
+    "#": "110",
+    "Questions": "Suite à une interpellation par la police, il est possible de :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "?"
+  },
+  {
+    "#": "111",
+    "Questions": "Tous les citoyens français ont-ils une religion ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Non, certains sont athés (sans appartenance religieuse)"
+  },
+  {
+    "#": "112",
+    "Questions": "À quel âge est la majorité numérique en France ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "15 ans (pas le droit aux réseaux sociaux avant)"
+  },
+  {
+    "#": "113",
+    "Questions": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+    "Commentaire": "La loi a changé en 2025, il est désormais interdit de fumer dans des parcs ou plages, et dans tout endroit public fermé qui ne prévoit pas un espace dédié aux fumeurs.",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "S'il existe un aménagement espace fumeurs : lieu public clos et couvert (restaurant, café, centre commercial, discothèque, etc.) ou lieu de travail"
+  },
+  {
+    "#": "114",
+    "Questions": "En France, la conduite sans permis d'une moto est :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "un délit, passible d'une amende de 800 euros, majorée à 1 600 euros en cas de non-paiement"
+  },
+  {
+    "#": "115",
+    "Questions": "En quoi consiste le devoir de solidarité ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Un devoir social ou une obligation réciproque d'aide et d'assistance à autrui"
+  },
+  {
+    "#": "116",
+    "Questions": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Non, la polygamie est illégale"
+  },
+  {
+    "#": "117",
+    "Questions": "Est-ce obligatoire de déclarer ses impôts chaque année en France ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Oui, c'est une obligation légale"
+  },
+  {
+    "#": "118",
+    "Questions": "Est-il obligatoire de porter secours à une personne en danger ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Oui, la loi demande à chaque citoyen de porter secours à une autre personne dont la vie est en péril."
+  },
+  {
+    "#": "119",
+    "Questions": "Être juré d'assises est :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Tiré au sort sur les listes électorales ?"
+  },
+  {
+    "#": "120",
+    "Questions": "La vente d'alcool en France est interdite aux personnes de moins de :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "18 ans"
+  },
+  {
+    "#": "121",
+    "Questions": "Le non-respect du code de la route est :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Un délit, passible d'une amende, une possible peine d'emprisonnement ainsi qu'une peine complémentaire."
+  },
+  {
+    "#": "122",
+    "Questions": "Lequel de ces crimes ou délits peut entrainer la privation des droits civils et politiques par un juge ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Viol ou les agressions sexuelles sur mineur ; Acte terroriste ; crime ou délit portant atteinte aux intérêts fondamentaux de la Nation"
+  },
+  {
+    "#": "123",
+    "Questions": "Pour obtenir une carte d'identité, il faut :",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Etre de nationalité française et venir en personne en mairie pour finaliser votre demande"
+  },
+  {
+    "#": "124",
+    "Questions": "Pour quel motif peut-on limiter la liberté d'expression ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Pour des motifs de protection des personnes (ex : discours ou appel à la haine) ou de l'intérêt général"
+  },
+  {
+    "#": "125",
+    "Questions": "Que doit faire un citoyen s'il est appelé à être juré dans un procès d'assises ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Il doit se rendre au procès auquel il est convoqué. Il doit être attentif lors des débats et être impartial, c'est-à-dire, indépendant, neutre et objectif. Il ne doit pas communiquer sur l'affaire et respecter le secret des délibérés"
+  },
+  {
+    "#": "126",
+    "Questions": "Quel est l'âge de la majorité civile en France ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "18 ans"
+  },
+  {
+    "#": "127",
+    "Questions": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Respecter la loi ; Contribuer au financement public ; Contribuer à la Défense nationale"
+  },
+  {
+    "#": "128",
+    "Questions": "Quelle est l'infraction la plus grave ?",
+    "Commentaire": "\"Les contraventions, les délits et les crimes sont les 3 types d'infractions punies par une sanction pénale (amende, prison, etc.). La principale différence se trouve au niveau de la gravité de l'acte et des sanctions encourues. La contravention est l'infraction la moins grave, le délit est l'infraction intermédiaire et le crime est l'infraction la plus grave. En fonction du type d'acte commis, les juridictions et les délais de prescription diffèrent.\" \n\nSource : https://www.service-public.gouv.fr/particuliers/vosdroits/F1157#:~:text=Il%20existe%203%20types%20d,par%20exemple%2C%20victime%20majeure).",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "3 types d'infractions : Contravention < Délit < Crime. \n\nC'est le crime le type le plus grave"
+  },
+  {
+    "#": "129",
+    "Questions": "Qu'est-ce que la citoyenneté numérique ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "La capacité à participer de manière active, continue et responsable à des communautés en ligne et hors ligne, grâce à un engagement compétent et positif avec les technologies numériques"
+  },
+  {
+    "#": "130",
+    "Questions": "Qu'est-ce que le devoir de mémoire ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Témoigner et de garder vivace le souvenir d'événements vécus pour tirer les leçons du passé"
+  },
+  {
+    "#": "131",
+    "Questions": "Qui peut être appelé à faire partie d'un jury d'assises en France ?",
+    "Commentaire": "",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Tout citoyen français âgé de 23 ans et plus, jouissant de ses droits civiques et inscrit sur les listes électorales"
+  },
+  {
+    "#": "132",
+    "Questions": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation.",
+    "Commentaire": "\"L'interdiction des droits civiques, civils et de famille ne peut excéder une durée de dix ans en cas de condamnation pour crime et une durée de cinq ans en cas de condamnation pour délit.\nLa juridiction peut prononcer l'interdiction de tout ou partie de ces droits.\" \nArticle 131-26 du code pénal",
+    "Categorie": "Droits et devoirs",
+    "Reponse": "Possible, en cas de condamnation pour délit (max 5 ans) ou un crime (max 10 ans)"
+  },
+  {
+    "#": "133",
+    "Questions": "Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "?"
+  },
+  {
+    "#": "134",
+    "Questions": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+    "Commentaire": "Ou la légalisation de l'esclavage mdr",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le Code Civil ?"
+  },
+  {
+    "#": "135",
+    "Questions": "Qui a été président de la Ve République ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Charles De Gaulle ; George Pompidou ; Valéry Giscard d'Estaing ; François Mitterrand ; Jacques Chirac ; Nicolas Sarkozy ; François Hollande ; Emmanuel Macron"
+  },
+  {
+    "#": "136",
+    "Questions": "Quel est l'objectif des lois scolaires de la IIIe République ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Rendre l'enseignement primaire gratuit et obligatoire pour garçons et filles"
+  },
+  {
+    "#": "137",
+    "Questions": "Que signifie la date du 14 juillet pour les Français ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La prise de la Bastille, début de la Révolution française (14 juillet 1789)"
+  },
+  {
+    "#": "138",
+    "Questions": "Pourquoi l'année 1958 est importante pour la France ?",
+    "Commentaire": "Institué par référendum, initié par Charles De Gaulle, en 1958",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Institution de la Ve République"
+  },
+  {
+    "#": "139",
+    "Questions": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "6 pays fondateurs : Allemagne, Belgique, France, Italie, Luxembourg et Pays-Bas"
+  },
+  {
+    "#": "140",
+    "Questions": "Simone Veil est une figure importante de l'histoire française. Elle a notamment :",
+    "Commentaire": "Juive déportée à Auschwitz, puis femme politique.\n1ère femme à entrer au Panthéon. \n1ère femme à la tête d'une institution européenne (Présidente du Parlement)",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Porté la loi pour la légalisation de l'Interruption Volontaire de la Grosse / l'Avortement en 1974."
+  },
+  {
+    "#": "141",
+    "Questions": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Normandie"
+  },
+  {
+    "#": "142",
+    "Questions": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Reims"
+  },
+  {
+    "#": "143",
+    "Questions": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Louis XVI"
+  },
+  {
+    "#": "144",
+    "Questions": "En quelle année a débuté la Révolution française ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1789"
+  },
+  {
+    "#": "145",
+    "Questions": "En quelle année Napoléon Ier est-il devenu empereur ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1804"
+  },
+  {
+    "#": "146",
+    "Questions": "Lequel de ces personnages a un lien avec la République française ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "?"
+  },
+  {
+    "#": "147",
+    "Questions": "De quand date l'appel à la résistance du général de Gaulle ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "18 juin 1940 (= appel du 18 juin)"
+  },
+  {
+    "#": "148",
+    "Questions": "Qu'est-ce que la Shoah ?",
+    "Commentaire": "La Shoah signifie « la catastrophe » en hébreu. Ce terme désigne spécifiquement la mise à mort de près de 6 millions de Juifs d'Europe par l'Allemagne nazie",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "L'Holocauste et le génocide des juifs pendant la 2nde Guerre Mondiale"
+  },
+  {
+    "#": "149",
+    "Questions": "Quel pays a été une colonie française ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Algérie ; Sénégal ; Mali ; Côte d'Ivoire ; Burkina Faso ; Gabon ; Tchad"
+  },
+  {
+    "#": "150",
+    "Questions": "Qui a rendu l'école gratuite, laïque et obligatoire ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Jules Ferry, en 1881"
+  },
+  {
+    "#": "151",
+    "Questions": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Depuis le Référendum constitutionnel français de 1962"
+  },
+  {
+    "#": "152",
+    "Questions": "En quelle année l'Union européenne a-t-elle été fondée?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "En 1992, avec le Traité de Maastricht"
+  },
+  {
+    "#": "153",
+    "Questions": "Quand a eu lieu la Seconde guerre mondiale ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1939-1945"
+  },
+  {
+    "#": "154",
+    "Questions": "Quand a eu lieu la Première guerre mondiale ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1914-1918"
+  },
+  {
+    "#": "155",
+    "Questions": "Sous quel président a été abolie la peine de mort en France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "François Miterrand (1981)"
+  },
+  {
+    "#": "156",
+    "Questions": "Que célèbre-t-on le 8 mai ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La fin de la Seconde Guerre Mondiale (le 8 mai 1945)"
+  },
+  {
+    "#": "157",
+    "Questions": "Quelle est la première étape de la construction européenne en 1951 ?",
+    "Commentaire": "L'objectif : créer une inter-dépendance entre les pays fondateurs, en particulier France et l'Allemagne, sur des ressources militaires clés (le charbon et l'acier)",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La fondation de la Communauté européenne du charbon et de l'acier (CECA), en 1951"
+  },
+  {
+    "#": "158",
+    "Questions": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Jean Moulin (préfet, résistant)"
+  },
+  {
+    "#": "159",
+    "Questions": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La fin/l'armistice de la Première Guerre Mondiale"
+  },
+  {
+    "#": "160",
+    "Questions": "Depuis quand l'esclavage a-t-il été aboli en France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1848"
+  },
+  {
+    "#": "161",
+    "Questions": "Qui a aboli l'esclavage en France ?",
+    "Commentaire": "\"En 1848, Victor Schœlcher est nommé sous-secrétaire d'État à la Marine et aux colonies dans le gouvernement provisoire de 1848. Nommé également président de la commission d'abolition de l'esclavage, il est l'initiateur du décret du 27 avril 1848 qui abolit définitivement l'esclavage en France. \n\nL'esclavage avait déjà été aboli en France, pendant la Révolution française le 16 pluviôse an II, puis rétabli par Napoléon Ier par la loi du 20 mai 1802.\"",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Victor Schoelcher, en 1848, en tant qu'initiateur du décret de l'abolition"
+  },
+  {
+    "#": "162",
+    "Questions": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "1881, par Jules Ferry"
+  },
+  {
+    "#": "163",
+    "Questions": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Elles ont eu le droit de vote"
+  },
+  {
+    "#": "164",
+    "Questions": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "L'Organisation des Nations Unies (ONU) ?"
+  },
+  {
+    "#": "165",
+    "Questions": "En quelle année l'euro est-il devenu la monnaie officielle de la France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "2002"
+  },
+  {
+    "#": "166",
+    "Questions": "Lors de la seconde guerre mondiale, à quelle date la ville de Paris a-t-elle été libérée ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le 25 août 1944"
+  },
+  {
+    "#": "167",
+    "Questions": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+    "Commentaire": "Puis dans le désordre : Bordeaux, La Rochelle, et Le Havre-Honfleur-Rouen",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Nantes"
+  },
+  {
+    "#": "168",
+    "Questions": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+    "Commentaire": "Dans certains de ses textes, Montesquieu utilise l'ironie pour dénoncer les esclavagistes.En ridiculisant les arguments en faveur de l'esclavagisme, Montesquieu montre la brutalité des Européens avec les Indiens, le racisme qui justifie la traite des Noirs et l'impiété de ceux qui se disent chrétiens.",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Montesquieu"
+  },
+  {
+    "#": "169",
+    "Questions": "Quelle oeuvre a été écrite par Victor Hugo ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Les Misérables ; Notre Dame de Paris"
+  },
+  {
+    "#": "170",
+    "Questions": "Quel peintre est français ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Monet, Manet, Cézanne, Renoir, Matisse, Delacroix, ..."
+  },
+  {
+    "#": "171",
+    "Questions": "Quel plat est une spécialité de la cuisine française ?",
+    "Commentaire": "Les cuisses de grenouilles ; L’Aligot ; Les crêpes ;",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le bœuf bourguignon ; Le coq au vin ; Le cassoulet ; La tartiflette ; La quiche lorraine ; Les escargots persillés ; La blanquette de veau : La bouillabaisse"
+  },
+  {
+    "#": "172",
+    "Questions": "Qui était Marie Curie ?",
+    "Commentaire": "Seule femme de l'histoire a avoir reçu 2 prix Nobels",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Scientifique franco-polonaise, première femme à obtenir le prix Nobel de physique"
+  },
+  {
+    "#": "173",
+    "Questions": "Qui a peint \"La liberté guidant le peuple\" ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Eugène Delacroix"
+  },
+  {
+    "#": "174",
+    "Questions": "Dans quel grand musée parisien est exposée la Joconde ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Musée du Louvres"
+  },
+  {
+    "#": "175",
+    "Questions": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Chateau de Versailles"
+  },
+  {
+    "#": "176",
+    "Questions": "Où peut-on voir des peintures préhistoriques en France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La grotte Chauvet du Pont d'Arc  ; Les grottes de Lascaux"
+  },
+  {
+    "#": "177",
+    "Questions": "Quel peintre célèbre a peint les Nymphéas ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image6.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Claude Monet"
+  },
+  {
+    "#": "178",
+    "Questions": "Pendant quelles journées peut-on visiter gratuitement des lieux culturels en France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le Premier dimanche de chaque mois"
+  },
+  {
+    "#": "179",
+    "Questions": "Que symbolise le 1er mai ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Fête du Travail"
+  },
+  {
+    "#": "180",
+    "Questions": "Qui était Monsieur Rouget de Lisle ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Compositeur de \"La Marseillaise\""
+  },
+  {
+    "#": "181",
+    "Questions": "À quelle occasion a été construite la Tour Eiffel ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "A l'occasion de l'Exposition Universelle de 1889"
+  },
+  {
+    "#": "182",
+    "Questions": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Les Alpes"
+  },
+  {
+    "#": "183",
+    "Questions": "Qui était Molière ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image7.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Dramaturge"
+  },
+  {
+    "#": "184",
+    "Questions": "Qui était Charles Baudelaire ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image8.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Poète"
+  },
+  {
+    "#": "185",
+    "Questions": "Qui était George Sand ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image9.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Ecrivaine"
+  },
+  {
+    "#": "186",
+    "Questions": "Qui était Simone de Beauvoir ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image10.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Philosophe"
+  },
+  {
+    "#": "187",
+    "Questions": "Qui était Albert Camus ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image11.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Ecrivain / Philosophe"
+  },
+  {
+    "#": "188",
+    "Questions": "Qui était Marguerite Yourcenar ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image12.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Ecrivaine"
+  },
+  {
+    "#": "189",
+    "Questions": "Qui était Paul Cézanne ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image13.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Peintre"
+  },
+  {
+    "#": "190",
+    "Questions": "Qui était Auguste Rodin ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image14.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Sculpteur"
+  },
+  {
+    "#": "191",
+    "Questions": "Qui était un célèbre compositeur français ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image15.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Debussy, Ravel, Berlioz, Fauré, Satie ..."
+  },
+  {
+    "#": "192",
+    "Questions": "Qui était Auguste Renoir ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image16.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Peintre"
+  },
+  {
+    "#": "193",
+    "Questions": "Quel musée est situé à Paris ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Louvres ; Musée d'Orsay ; Musée Pompidou/Beaubourg ;"
+  },
+  {
+    "#": "194",
+    "Questions": "Quel monument historique se trouve sur une île en Normandie ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image17.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le Mont Saint Michel"
+  },
+  {
+    "#": "195",
+    "Questions": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Paris, Lyon, Marseille, Lille, Toulouse, Bordeaux, Nice, Nantes, Strasbourg, Rennes"
+  },
+  {
+    "#": "196",
+    "Questions": "Quelle île fait partie des Antilles françaises ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Martinique ; Saint Martin ; Guadeloupe"
+  },
+  {
+    "#": "197",
+    "Questions": "Quelle île est française ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Martinique ; Saint Martin ; Guadeloupe ; Ile de Ré ; Nouvelle Calédonie ; Mayotte"
+  },
+  {
+    "#": "198",
+    "Questions": "Quelle est la plus haute montagne de France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le Mont Blanc (4806 m)"
+  },
+  {
+    "#": "199",
+    "Questions": "Quelle île française est située dans l'océan indien ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La Réunion ; Mayotte"
+  },
+  {
+    "#": "200",
+    "Questions": "Quel département français a une frontière avec le Brésil ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La Guyanne"
+  },
+  {
+    "#": "201",
+    "Questions": "De quelle ville française décolle la fusée Ariane ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Kourou (Guyanne française)"
+  },
+  {
+    "#": "202",
+    "Questions": "Quelle mer ou océan borde la France métropolitaine ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Méditerranée ; Atlantique ; La Manche"
+  },
+  {
+    "#": "203",
+    "Questions": "Quelle mer se situe entre la France et l'Angleterre ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La Manche"
+  },
+  {
+    "#": "204",
+    "Questions": "Quelle île est un département d'outre-mer français ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Guadeloupe, Guyane, Martinique, Mayotte, La Réunion"
+  },
+  {
+    "#": "205",
+    "Questions": "Qu'est-ce que la France d'outre-mer ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image18.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Ce sont les territoires français situés en dehors de la France métropolitaine : \n5 Département Régions d'Outre Mer (DROM) : Guadeloupe, Guyane, Martinique, Mayotte, La Réunion. \n5 Communautés d'Outre Mer (COM) : Wallis et Futuna, la Polynésie française, Saint-Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon"
+  },
+  {
+    "#": "206",
+    "Questions": "Quelle est la population approximative de la France en 2025 ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "69 millions (nice)"
+  },
+  {
+    "#": "207",
+    "Questions": "Quel est le principal port maritime de France ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Le port du Havre"
+  },
+  {
+    "#": "208",
+    "Questions": "Combien y a-t-il de régions en France métropolitaine ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "13 régions"
+  },
+  {
+    "#": "209",
+    "Questions": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Les Pyrénées"
+  },
+  {
+    "#": "210",
+    "Questions": "Quelle île française se trouve au sud-est du continent africain ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Mayotte"
+  },
+  {
+    "#": "211",
+    "Questions": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image19.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Lyon"
+  },
+  {
+    "#": "212",
+    "Questions": "Quel est le chef-lieu de la région Bretagne ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image19.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Rennes"
+  },
+  {
+    "#": "213",
+    "Questions": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image19.png"
+    ],
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Marseille"
+  },
+  {
+    "#": "214",
+    "Questions": "Quel est le 101ème département français depuis 2011 ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Mayotte"
+  },
+  {
+    "#": "215",
+    "Questions": "Quelle région française est réputée pour ses stations de ski ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "Les Alpes"
+  },
+  {
+    "#": "216",
+    "Questions": "Quel fleuve traverse Paris ?",
+    "Commentaire": "",
+    "Categorie": "Histoire géographie et culture",
+    "Reponse": "La Seine"
+  },
+  {
+    "#": "217",
+    "Questions": "Où faut-il déclarer la naissance d'un enfant ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Bureau d'état civil de l'hôpital ou de la mairie"
+  },
+  {
+    "#": "218",
+    "Questions": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Des petits travaux d'aménagement simples"
+  },
+  {
+    "#": "219",
+    "Questions": "Quel mariage est reconnu légalement ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le mariage civil (entre 1 homme/femme et 1 femme/homme)"
+  },
+  {
+    "#": "220",
+    "Questions": "Le stationnement sur une place réservée aux personnes handicapées :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Est strictement réservé aux handicapés, sous peine d'amende"
+  },
+  {
+    "#": "221",
+    "Questions": "Si une machine à laver est cassée, il est possible de :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "La faire réparer par"
+  },
+  {
+    "#": "222",
+    "Questions": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Elle doit être obligatoirement réalisée dans la commune de naissance, dans les 8 jours qui suivent l'accouchement"
+  },
+  {
+    "#": "223",
+    "Questions": "Quand faut-il déclarer son enfant au service d'état civil ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Dans les 8 jours qui suivent le jour de l'accouchement"
+  },
+  {
+    "#": "224",
+    "Questions": "Quel numéro d'urgence permet d'appeler la police ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "17"
+  },
+  {
+    "#": "225",
+    "Questions": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "15"
+  },
+  {
+    "#": "226",
+    "Questions": "Auprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "La mairie"
+  },
+  {
+    "#": "227",
+    "Questions": "En cas de divorce, qui exerce l'autorité parentale ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le père et la mère (exercice commun de la parentalité)"
+  },
+  {
+    "#": "228",
+    "Questions": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "L'aide juridictionnelle"
+  },
+  {
+    "#": "229",
+    "Questions": "Qui peut demander le divorce de personnes mariées ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le juge ou les époux, si accord commun"
+  },
+  {
+    "#": "230",
+    "Questions": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "La CPAM (caisse primaire d'assurance maladie)"
+  },
+  {
+    "#": "231",
+    "Questions": "La contraception :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Un droit, et correspond à l'ensemble des moyens visant à éviter une grossesse."
+  },
+  {
+    "#": "232",
+    "Questions": "Quel est le principe de confidentialité dans le domaine de la santé ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Un professionnel de santé qui a des informations sur vous ne doit pas les communiquer à d'autres personnes."
+  },
+  {
+    "#": "233",
+    "Questions": "À quoi sert la carte Vitale ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Elle permet de vous identifier auprès de l'Assurance maladie"
+  },
+  {
+    "#": "234",
+    "Questions": "À quoi sert une mutuelle santé ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "compléter le remboursement de l'Assurance maladie (Sécurité sociale)"
+  },
+  {
+    "#": "235",
+    "Questions": "Qu'est-ce que le tiers payant ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le tiers payant consiste pour l'Assurance maladie à payer directement le professionnel de santé"
+  },
+  {
+    "#": "236",
+    "Questions": "L'inscription à l'Assurance maladie est :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Autorisé pour tout résident en France"
+  },
+  {
+    "#": "237",
+    "Questions": "L'avortement est-il possible en France ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Oui, depuis 1975"
+  },
+  {
+    "#": "238",
+    "Questions": "Travailler sans être déclaré est :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Illégal (= travail au noir)"
+  },
+  {
+    "#": "239",
+    "Questions": "Qu'est-ce que le SMIC ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Salaire Minimum Interprofessionnel de Croissance (SMIC), ou salaire minimum"
+  },
+  {
+    "#": "240",
+    "Questions": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "Commentaire": "\"Lorsque je suis en recherche d'emploi, je peux dans un premier temps m'inscrire à France Travail (anciennement Pôle emploi). Ensuite, lors de ma recherche d'emploi ou lors de ma reprise d'activité, je dois accomplir différentes démarches.\"\nSource : https://www.service-public.gouv.fr/particuliers/vosdroits/F17556/personnalisation/resultat?lang=&quest0=0&quest=",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Inscription à France Travail"
+  },
+  {
+    "#": "241",
+    "Questions": "Quelle est la durée légale du temps de travail par semaine ?",
+    "Commentaire": "Mais ça dépend évidemment du statut du travailleur : indépendant/entrepreneur, temps partiel, cadre au forfait, etc.",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "35 heures, pour un salarié à temps complet"
+  },
+  {
+    "#": "242",
+    "Questions": "Qui peut demander un congé parental d'éducation ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Tout(e) salarié(e) peut bénéficier d'un congé parental d'éducation lui permettant d'interrompre ou de réduire son activité professionnelle pour élever cet enfant"
+  },
+  {
+    "#": "243",
+    "Questions": "Une personne étrangère, en situation régulière, peut créer son entreprise :",
+    "Commentaire": "Pour créer une entreprise en France quand on est étranger, les formalités sont différentes si vous êtes ressortissant européen ou non. En effet, en tant que résident européen ou d’un pays de l’espace économique européen, vous n’avez pas besoin de titre de séjour. Les démarches pour entreprendre sont les mêmes que pour un Français. Vous devrez simplement fournir une copie de votre pièce d’identité. \n\nEn tant que personne étrangère non citoyenne de l’Union européenne, vous devez impérativement obtenir un visa pour créer une entreprise en France. Puis, vous pourrez faire une demande de carte de séjour. \n\nSource : https://bigmedia.bpifrance.fr/nos-dossiers/comment-creer-une-entreprise-en-france-quand-est-etranger#:~:text=En%20tant%20que%20personne%20%C3%A9trang%C3%A8re,demande%20de%20carte%20de%20s%C3%A9jour.",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Si citoyen européen ou si citoyen non-européen disposant d'un Visa ou titre de séjour"
+  },
+  {
+    "#": "244",
+    "Questions": "Une femme peut-elle créer son entreprise ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Oui, comme toute personne majeure (18 ans et plus, ...)"
+  },
+  {
+    "#": "245",
+    "Questions": "Quels sont les textes qui définissent les règles au travail ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le Code du Travail"
+  },
+  {
+    "#": "246",
+    "Questions": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Les litiges individuels entre un employeur et un salarié survenus à l'occasion de tout contrat de travail"
+  },
+  {
+    "#": "247",
+    "Questions": "Qui a le droit de se syndiquer ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Tout salarié peut adhérer librement au syndicat de son choix"
+  },
+  {
+    "#": "248",
+    "Questions": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Non, pendant le congé maternité et l'intégralité de la période de protection absolue, l'employeur ne peut pas licencier la salariée, quel que soit le motif"
+  },
+  {
+    "#": "249",
+    "Questions": "L'instruction des enfants est obligatoire de :",
+    "Commentaire": "Depuis la loi Jules Ferry du 28 mars 1882, l'instruction est obligatoire pour tous les enfants français et étrangers, âgés de 3 à 16 ans, résidant en France",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Obligatoire de 3 à 16 ans ?"
+  },
+  {
+    "#": "250",
+    "Questions": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Si vous ne respectez pas l'obligation d'instruction, vous risquez une amende pouvant aller jusqu'à 1 500 €."
+  },
+  {
+    "#": "251",
+    "Questions": "Quelle est la définition de l'autorité parentale ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "L'ensemble des droits et des devoirs que les parents ont vis-à-vis de leur enfant mineur"
+  },
+  {
+    "#": "252",
+    "Questions": "Quel motif d'absence est accepté par l'école ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Maladie de l'enfant (ou d'un de ses proches s'il est contagieux) ; Réunion solennelle de famille (mariage, enterrement, etc.) ; Empêchement causé par un problème accidentel dans les transports"
+  },
+  {
+    "#": "253",
+    "Questions": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "Commentaire": "Depuis la loi Jules Ferry du 28 mars 1882, l'instruction est obligatoire pour tous les enfants français et étrangers, âgés de 3 à 16 ans, résidant en France",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "16 ans (obligatoire de 3 à 16 ans)"
+  },
+  {
+    "#": "254",
+    "Questions": "À quel âge commence l'instruction obligatoire des enfants ?",
+    "Commentaire": "Depuis la loi Jules Ferry du 28 mars 1882, l'instruction est obligatoire pour tous les enfants français et étrangers, âgés de 3 à 16 ans, résidant en France",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "3 ans (obligatoire de 3 à 16 ans)"
+  },
+  {
+    "#": "255",
+    "Questions": "Comment s'appellent les établissements scolaires que les élèves intègrent après l'école élémentaire ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Le Collège"
+  },
+  {
+    "#": "256",
+    "Questions": "En tant que parent d'élève, il est possible de :",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "?"
+  },
+  {
+    "#": "257",
+    "Questions": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+    "Commentaire": "Depuis la loi Jules Ferry du 28 mars 1882, l'instruction est obligatoire pour tous les enfants français et étrangers, âgés de 3 à 16 ans, résidant en France",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "L'instruction est obligatoire pour tous les enfants, Y COMPRIS ETRANGERS, âgés de 3 à 16 ans, résidant en France"
+  },
+  {
+    "#": "258",
+    "Questions": "S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Des dispositifs existent pour la scolarisation des élèves en situation de handicap dans le premier et le second degrés. Ex : Unités localisées pour l'inclusion scolaire (Ulis)"
+  },
+  {
+    "#": "259",
+    "Questions": "Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?",
+    "Commentaire": "28 jours dont 7 jours obligatoires",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "28 jours"
+  },
+  {
+    "#": "260",
+    "Questions": "Est-ce possible de punir physiquement ses enfants ?",
+    "Commentaire": "",
+    "Categorie": "Vivre dans la société française",
+    "Reponse": "Non, c'est illégal"
+  }
+]

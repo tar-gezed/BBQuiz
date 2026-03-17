@@ -1,0 +1,218 @@
+/* Using layout ideas from Home Component *History* but optimized for full page */
+.stats-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem 0 3rem 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.stats-header {
+    text-align: center;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.back-link {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+    background: var(--surface-color);
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+}
+
+.back-link:hover {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.stats-header h1 {
+    font-size: 2.2rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.header-with-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+.history-section h2 {
+    font-size: 1.5rem;
+    color: var(--text-primary);
+    margin: 0;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--error-color);
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-md);
+    transition: background 0.2s;
+}
+
+.icon-btn:hover {
+    background: rgba(239, 68, 68, 0.1);
+}
+
+.history-grid {
+    display: grid;
+    gap: 1.25rem;
+}
+
+.history-card {
+    background: var(--surface-color);
+    border-radius: var(--radius-md);
+    padding: 1.25rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: var(--shadow-sm);
+    border-left: 5px solid var(--border-color);
+    transition: all 0.2s ease;
+    border-top: 2px solid transparent;
+    border-right: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+}
+
+.clickable-card {
+    cursor: pointer;
+}
+
+.clickable-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-top-color: var(--primary-color);
+    border-right-color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+
+.history-card.passed {
+    border-left-color: var(--success-color);
+}
+
+.history-card.failed {
+    border-left-color: var(--error-color);
+}
+
+.card-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.history-header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.date {
+    color: var(--text-primary);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.badge {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    display: inline-block;
+    align-self: flex-start;
+}
+
+.passed .badge {
+    color: var(--success-color);
+    background: rgba(16, 185, 129, 0.1);
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+}
+
+.failed .badge {
+    color: var(--error-color);
+    background: rgba(239, 68, 68, 0.1);
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+}
+
+.card-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.score {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.fraction {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.percentage {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+}
+
+.details-chevron {
+    font-size: 2rem;
+    color: var(--text-secondary);
+    line-height: 1;
+    transition: transform 0.2s;
+}
+
+.clickable-card:hover .details-chevron {
+    transform: translateX(5px);
+    color: var(--primary-color);
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: var(--surface-color);
+    border-radius: var(--radius-lg);
+    border: 2px dashed var(--border-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.empty-icon {
+    font-size: 4rem;
+    opacity: 0.5;
+}
+
+.empty-state p {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+}
+
+.empty-state .primary-btn {
+    margin-top: 1rem;
+}

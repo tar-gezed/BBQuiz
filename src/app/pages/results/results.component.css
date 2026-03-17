@@ -1,0 +1,258 @@
+.results-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem 0;
+}
+
+.eval-header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.eval-header h1 {
+    font-size: 2.2rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.eval-header p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+/* Evaluation Cards */
+.review-questions {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.review-card {
+    background: var(--surface-color);
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.review-card.marked-correct {
+    border-color: var(--success-color);
+    background-color: rgba(16, 185, 129, 0.05);
+}
+
+.review-card.marked-wrong {
+    border-color: var(--error-color);
+    background-color: rgba(239, 68, 68, 0.05);
+}
+
+.q-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.q-header h3 {
+    color: var(--text-primary);
+    font-size: 1.1rem;
+}
+
+.category {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    background: var(--bg-color);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius-md);
+}
+
+.question-text {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.answers-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+@media (max-width: 600px) {
+    .answers-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.user-answer,
+.correct-answer {
+    background: var(--bg-color);
+    padding: 1rem;
+    border-radius: var(--radius-md);
+}
+
+.user-answer strong,
+.correct-answer strong {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.user-answer p,
+.correct-answer p {
+    font-size: 1.1rem;
+    color: var(--text-primary);
+}
+
+.comment-box {
+    background: rgba(59, 130, 246, 0.1);
+    border-left: 4px solid var(--primary-color);
+    padding: 1rem;
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+.comment-box strong {
+    color: var(--primary-color);
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+/* Evaluation Buttons */
+.eval-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.eval-btn {
+    flex: 1;
+    padding: 0.75rem;
+    border: 2px solid var(--border-color);
+    background: var(--surface-color);
+    border-radius: var(--radius-md);
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.eval-btn:hover {
+    background: var(--bg-color);
+}
+
+.eval-btn.correct.active {
+    background: var(--success-color);
+    border-color: var(--success-color);
+    color: white;
+}
+
+.eval-btn.wrong.active {
+    background: var(--error-color);
+    border-color: var(--error-color);
+    color: white;
+}
+
+/* Final Score Panel */
+.finish-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.submit-eval {
+    font-size: 1.25rem;
+    padding: 1rem 3rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+.final-score-panel {
+    text-align: center;
+    background: var(--surface-color);
+    padding: 4rem 2rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.score-circle {
+    width: 200px;
+    height: 200px;
+}
+
+.circular-chart {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    max-height: 250px;
+}
+
+.circle-bg {
+    fill: none;
+    stroke: var(--border-color);
+    stroke-width: 3.8;
+}
+
+.circle {
+    fill: none;
+    stroke-width: 2.8;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+}
+
+@keyframes progress {
+    0% {
+        stroke-dasharray: 0 100;
+    }
+}
+
+.score-circle.success .circle {
+    stroke: var(--success-color);
+}
+
+.score-circle.failure .circle {
+    stroke: var(--error-color);
+}
+
+.percentage {
+    fill: var(--text-primary);
+    font-size: 0.5em;
+    text-anchor: middle;
+    font-weight: bold;
+}
+
+.text-success {
+    color: var(--success-color);
+}
+
+.text-failure {
+    color: var(--error-color);
+}
+
+.action-buttons {
+    margin-top: 2rem;
+}
+
+.radar-section {
+    width: 100%;
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 1px dashed var(--border-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
