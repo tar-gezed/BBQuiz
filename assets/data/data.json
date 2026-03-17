@@ -3871,7 +3871,7 @@
       "9": "Au Musée national de Préhistoire"
     }
   },
-    {
+  {
     "#": "176002",
     "Categorie": "Histoire géographie et culture",
     "Questions": "Où peut-on voir des peintures préhistoriques en France ?",
@@ -4183,13 +4183,15 @@
       "9": "Peintre"
     }
   },
-   {
+  {
     "#": "191001",
     "Categorie": "Histoire géographie et culture",
     "Questions": "Qui était un célèbre compositeur français ?",
     "Reponse": "Debussy",
     "Commentaire": "",
-    "Images": ["assets/images/image15.png"],
+    "Images": [
+      "assets/images/image15.png"
+    ],
     "FaussesRéponses": {
       "0": "Le Mont-Blanc",
       "1": "Zinedine Zidane",
@@ -4209,7 +4211,9 @@
     "Questions": "Qui était un célèbre compositeur français ?",
     "Reponse": "Ravel",
     "Commentaire": "",
-    "Images": ["assets/images/image15.png"],
+    "Images": [
+      "assets/images/image15.png"
+    ],
     "FaussesRéponses": {
       "0": "Le Mont-Blanc",
       "1": "Zinedine Zidane",
@@ -4229,7 +4233,9 @@
     "Questions": "Qui était un célèbre compositeur français ?",
     "Reponse": "Berlioz",
     "Commentaire": "",
-    "Images": ["assets/images/image15.png"],
+    "Images": [
+      "assets/images/image15.png"
+    ],
     "FaussesRéponses": {
       "0": "Le Mont-Blanc",
       "1": "Zinedine Zidane",
@@ -4249,7 +4255,9 @@
     "Questions": "Qui était un célèbre compositeur français ?",
     "Reponse": "Fauré",
     "Commentaire": "",
-    "Images": ["assets/images/image15.png"],
+    "Images": [
+      "assets/images/image15.png"
+    ],
     "FaussesRéponses": {
       "0": "Le Mont-Blanc",
       "1": "Zinedine Zidane",
@@ -4269,7 +4277,9 @@
     "Questions": "Qui était un célèbre compositeur français ?",
     "Reponse": "Satie",
     "Commentaire": "",
-    "Images": ["assets/images/image15.png"],
+    "Images": [
+      "assets/images/image15.png"
+    ],
     "FaussesRéponses": {
       "0": "Le Mont-Blanc",
       "1": "Zinedine Zidane",
@@ -4422,7 +4432,7 @@
       "9": "L'île de Tatihou"
     }
   },
-   {
+  {
     "#": "195001",
     "Categorie": "Histoire géographie et culture",
     "Questions": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
@@ -5935,10 +5945,6 @@
       "9": "L'ensemble des droits et devoirs des parents jusqu'à l'indépendance financière de l'enfant"
     }
   },
-  Voici les objets JSON générés pour chaque motif d'absence accepté, avec les identifiants mis à jour (base 252) :
-
-```json
-[
   {
     "#": "252001",
     "Categorie": "Vivre dans la société française",
