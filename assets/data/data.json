@@ -114,10 +114,120 @@
     }
   },
   {
-    "#": "8",
+    "#": "8001",
     "Categorie": "Principes et valeurs de la République française",
     "Questions": "Lequel de ces symboles représente la République française ?",
-    "Reponse": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur",
+    "Reponse": "Le drapeau",
+    "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Un téléphone portable",
+      "1": "La statue de la Liberté",
+      "2": "Le drapeau anglais",
+      "3": "La Tour Eiffel",
+      "4": "La baguette de pain",
+      "5": "Le 1er mai",
+      "6": "L'hymne européen",
+      "7": "La fleur de lys",
+      "8": "Travail, Famille, Patrie",
+      "9": "Liberté, Équité, Fraternité"
+    }
+  },
+  {
+    "#": "8002",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Reponse": "L'hymne national",
+    "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Un téléphone portable",
+      "1": "La statue de la Liberté",
+      "2": "Le drapeau anglais",
+      "3": "La Tour Eiffel",
+      "4": "La baguette de pain",
+      "5": "Le 1er mai",
+      "6": "L'hymne européen",
+      "7": "La fleur de lys",
+      "8": "Travail, Famille, Patrie",
+      "9": "Liberté, Équité, Fraternité"
+    }
+  },
+  {
+    "#": "8003",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Reponse": "Liberté Egalité Fraternité",
+    "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Un téléphone portable",
+      "1": "La statue de la Liberté",
+      "2": "Le drapeau anglais",
+      "3": "La Tour Eiffel",
+      "4": "La baguette de pain",
+      "5": "Le 1er mai",
+      "6": "L'hymne européen",
+      "7": "La fleur de lys",
+      "8": "Travail, Famille, Patrie",
+      "9": "Liberté, Équité, Fraternité"
+    }
+  },
+  {
+    "#": "8004",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Reponse": "Le 14 juillet",
+    "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Un téléphone portable",
+      "1": "La statue de la Liberté",
+      "2": "Le drapeau anglais",
+      "3": "La Tour Eiffel",
+      "4": "La baguette de pain",
+      "5": "Le 1er mai",
+      "6": "L'hymne européen",
+      "7": "La fleur de lys",
+      "8": "Travail, Famille, Patrie",
+      "9": "Liberté, Équité, Fraternité"
+    }
+  },
+  {
+    "#": "8005",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Reponse": "Le coq",
+    "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
+    "Images": [
+      "assets/images/image1.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Un téléphone portable",
+      "1": "La statue de la Liberté",
+      "2": "Le drapeau anglais",
+      "3": "La Tour Eiffel",
+      "4": "La baguette de pain",
+      "5": "Le 1er mai",
+      "6": "L'hymne européen",
+      "7": "La fleur de lys",
+      "8": "Travail, Famille, Patrie",
+      "9": "Liberté, Équité, Fraternité"
+    }
+  },
+  {
+    "#": "8006",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symboles représente la République française ?",
+    "Reponse": "Le faisceau de licteur",
     "Commentaire": "Liste des symboles: Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur (image: Faisceau de Licteur)",
     "Images": [
       "assets/images/image1.png"
@@ -155,25 +265,135 @@
     }
   },
   {
-    "#": "10",
+    "#": "10001",
     "Categorie": "Principes et valeurs de la République française",
-    "Questions": "Lesquels sont des symboles officiels de la République française ?",
-    "Reponse": "Le drapeau · L'hymne national · Liberté Egalité Fraternité · Le 14 juillet · Le coq · Le faisceau de licteur",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "Le drapeau",
     "Commentaire": "",
     "Images": [
       "assets/images/image2.png"
     ],
     "FaussesRéponses": {
-      "0": "Des frites et le Père Noël",
-      "1": "La Tour Eiffel et le Taj Mahal",
-      "2": "Le drapeau américain et le Louvre",
-      "3": "La baguette de pain et le béret",
-      "4": "Le Sacré-Cœur et Napoléon",
-      "5": "Le Sénat et l'Assemblée nationale",
-      "6": "Le drapeau, l'hymne et la fleur de lys",
-      "7": "Le drapeau, l'hymne et le Palais de l'Élysée",
-      "8": "Le drapeau, l'hymne et la croix de Lorraine",
-      "9": "Le drapeau, l'hymne et la fête du 1er mai"
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
+    }
+  },
+  {
+    "#": "10002",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "L'hymne national",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
+    }
+  },
+  {
+    "#": "10003",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "Liberté Egalité Fraternité",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
+    }
+  },
+  {
+    "#": "10004",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "Le 14 juillet",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
+    }
+  },
+  {
+    "#": "10005",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "Le coq",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
+    }
+  },
+  {
+    "#": "10006",
+    "Categorie": "Principes et valeurs de la République française",
+    "Questions": "Lequel de ces symbole est un des symboles officiels de la République française ?",
+    "Reponse": "Le faisceau de licteur",
+    "Commentaire": "",
+    "Images": [
+      "assets/images/image2.png"
+    ],
+    "FaussesRéponses": {
+      "0": "Le Père Noël",
+      "1": "La Tour Eiffel",
+      "2": "Le Louvre",
+      "3": "Le béret",
+      "4": "Le Sacré-Cœur",
+      "5": "L'Assemblée nationale",
+      "6": "La fleur de lys",
+      "7": "Le Palais de l'Élysée",
+      "8": "La croix de Lorraine",
+      "9": "La fête du 1er mai"
     }
   },
   {
@@ -183,11 +403,11 @@
     "Reponse": "Non, c'est interdit",
     "Commentaire": "Le fait, au cours d'une manifestation organisée ou réglementée par les autorités publiques, d'outrager publiquement l'hymne national ou le drapeau tricolore est puni de 7500 euros d'amende",
     "FaussesRéponses": {
-      "0": "Seulement s'il fait froid",
+      "0": "Non, mais on peut le faire chez soi",
       "1": "C'est obligatoire chaque lundi",
       "2": "Oui, pour faire la cuisine",
       "3": "Oui, si on utilise un briquet",
-      "4": "Uniquement s'il est en papier",
+      "4": "Non, sauf le 14 juillet",
       "5": "Oui, si le drapeau est usagé",
       "6": "Oui, pour exprimer une émotion",
       "7": "Oui, c'est un droit politique",
@@ -199,7 +419,7 @@
     "#": "12",
     "Categorie": "Principes et valeurs de la République française",
     "Questions": "Quand la sécurité sociale a-t-elle été établie en France ?",
-    "Reponse": "1945",
+    "Reponse": "En 1945",
     "Commentaire": "Le  4 octobre 1945",
     "FaussesRéponses": {
       "0": "En 2025",
@@ -683,7 +903,7 @@
     "#": "37",
     "Categorie": "Principes et valeurs de la République française",
     "Questions": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
-    "Reponse": "Tout agent public ou de l'Etat",
+    "Reponse": "Les agents publics ou de l'État",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "Les astronautes",
@@ -721,8 +941,8 @@
     "#": "39",
     "Categorie": "Système institutionnel et politique",
     "Questions": "Comment est désigné le Premier ministre ?",
-    "Reponse": "Nominé par le Président de la République",
-    "Commentaire": "",
+    "Reponse": "Par le Président de la République",
+    "Commentaire": "Nomminé par le Président de la République",
     "FaussesRéponses": {
       "0": "Par un tirage au sort national",
       "1": "Par le roi de France",
@@ -873,7 +1093,7 @@
     "#": "47",
     "Categorie": "Système institutionnel et politique",
     "Questions": "Quelles sont les fonctions du maire ?",
-    "Reponse": "Le maire représente la commune à l'égard des tiers. Il est chargé de préparer et d'exécuter le budget et les délibérations du conseil municipa",
+    "Reponse": "Il représente la commune à l'égard des tiers. Il est chargé de préparer et d'exécuter le budget et les délibérations du conseil municipal",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "Il prépare les repas quotidiens de tous les habitants de la ville.",
@@ -930,7 +1150,7 @@
     "#": "50",
     "Categorie": "Système institutionnel et politique",
     "Questions": "À quel âge peut-on devenir électeur ?",
-    "Reponse": "18 ans",
+    "Reponse": "À 18 ans",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "À 1000 ans",
@@ -952,8 +1172,8 @@
     "Reponse": "Non, c'est un droit, pas une obligation",
     "Commentaire": "",
     "FaussesRéponses": {
-      "0": "Seulement si l'on possède un chat",
-      "1": "Oui, pour avoir le droit de manger au restaurant",
+      "0": "Non, sauf pour les élections présidentielles",
+      "1": "Non, c'est interdit avant 21 ans",
       "2": "Oui, sous peine d'une peine de prison immédiate",
       "3": "Oui, c'est obligatoire pour tous les touristes",
       "4": "Oui, pour pouvoir obtenir un passeport français",
@@ -971,8 +1191,8 @@
     "Reponse": "Non, nul n'est censé ignorer la loi",
     "Commentaire": "",
     "FaussesRéponses": {
-      "0": "Oui, si on est un chat.",
-      "1": "Seulement le week-end.",
+      "0": "Non, mais uniquement pour les délits mineurs",
+      "1": "Non, sauf si on n'est pas d'accord avec",
       "2": "Oui, si on demande l'autorisation au voisin.",
       "3": "Oui, si on est un touriste de passage.",
       "4": "Oui, si on n'aime pas le contenu de la loi.",
@@ -2073,8 +2293,8 @@
     "Reponse": "Non, certains sont athés.",
     "Commentaire": "Athés = sans appartenance religieuse",
     "FaussesRéponses": {
-      "0": "Oui, c'est écrit sur leur permis de conduire.",
-      "1": "Oui, sinon ils perdent leur nationalité.",
+      "0": "Non, sauf les personnes âgées",
+      "1": "Non, mais c'est obligatoire pour voter.",
       "2": "Oui, car la France est une monarchie religieuse.",
       "3": "Oui, la religion est mentionnée sur l'acte de naissance.",
       "4": "Oui, tout citoyen doit obligatoirement être chrétien.",
@@ -2108,7 +2328,7 @@
     "#": "113",
     "Categorie": "Droits et devoirs",
     "Questions": "Dans lequel de ces endroits est-on autorisé à fumer ?",
-    "Reponse": "S'il existe un aménagement espace fumeurs : lieu public clos et couvert (restaurant, café, centre commercial, discothèque, etc.) ou lieu de travail",
+    "Reponse": "Dans un lieu public clos avec un espace fumeur aménagé",
     "Commentaire": "La loi a changé en 2025, il est désormais interdit de fumer dans des parcs ou plages, et dans tout endroit public fermé qui ne prévoit pas un espace dédié aux fumeurs.",
     "FaussesRéponses": {
       "0": "Dans une station-service",
@@ -2168,8 +2388,8 @@
     "Reponse": "Non, la polygamie est illégale",
     "Commentaire": "",
     "FaussesRéponses": {
-      "0": "Oui, c'est obligatoire pour tout le monde",
-      "1": "Oui, c'est un droit fondamental en France",
+      "0": "Non, sauf si la première personne est d'accord",
+      "1": "Non, sauf pour raisons médicales",
       "2": "Oui, si vous avez une maison assez grande",
       "3": "Oui, avec une simple autorisation de la police",
       "4": "Oui, si tous les conjoints sont d'accord entre eux",
@@ -2187,9 +2407,9 @@
     "Reponse": "Oui, c'est une obligation légale",
     "Commentaire": "",
     "FaussesRéponses": {
-      "0": "Non, c'est strictement interdit",
+      "0": "Oui, mais seulement tous les 5 ans",
       "1": "Seulement si on veut faire un don à l'Etat",
-      "2": "Non, c'est un acte purement volontaire",
+      "2": "Oui, uniquement si l'on gagne beaucoup d'argent",
       "3": "Seulement pour les personnes de plus de 90 ans",
       "4": "Non, on ne doit déclarer qu'une année sur deux",
       "5": "Seulement si on gagne plus de 100 000 euros",
@@ -5588,7 +5808,7 @@
     "#": "233",
     "Categorie": "Vivre dans la société française",
     "Questions": "À quoi sert la carte Vitale ?",
-    "Reponse": "Elle permet de vous identifier auprès de l'Assurance maladie",
+    "Reponse": "À vous identifier auprès de l'Assurance maladie",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "À faire ses courses alimentaires",
@@ -5876,9 +6096,9 @@
     "Reponse": "Non, pendant le congé maternité et l'intégralité de la période de protection absolue.",
     "Commentaire": "Non, pendant le congé maternité et l'intégralité de la période de protection absolue, l'employeur ne peut pas licencier la salariée, quel que soit le motif",
     "FaussesRéponses": {
-      "0": "Oui, c'est tout à fait normal.",
+      "0": "Non, sauf si elle l'a caché à l'embauche",
       "1": "Oui, si l'employeur ne veut plus d'enfants dans l'entreprise.",
-      "2": "Oui, dès qu'elle dépasse le troisième mois de grossesse.",
+      "2": "Non, sauf si elle travaille à temps partiel",
       "3": "Oui, si elle travaille seulement à temps partiel.",
       "4": "Oui, si elle n'a pas prévenu son patron oralement avant.",
       "5": "Oui, dans les petites entreprises de moins de 10 salariés.",
@@ -5949,7 +6169,7 @@
     "#": "252001",
     "Categorie": "Vivre dans la société française",
     "Questions": "Quel motif d'absence est accepté par l'école ?",
-    "Reponse": "Maladie de l'enfant (ou d'un de ses proches s'il est contagieux)",
+    "Reponse": "Pour maladie de l'enfant (ou d'un de ses proches s'il est contagieux)",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "Pour jouer à la console",
@@ -5968,7 +6188,7 @@
     "#": "252002",
     "Categorie": "Vivre dans la société française",
     "Questions": "Quel motif d'absence est accepté par l'école ?",
-    "Reponse": "Réunion solennelle de famille (mariage, enterrement, etc.)",
+    "Reponse": "Pour une réunion solennelle de famille (mariage, enterrement, etc.)",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "Pour jouer à la console",
@@ -5987,7 +6207,7 @@
     "#": "252003",
     "Categorie": "Vivre dans la société française",
     "Questions": "Quel motif d'absence est accepté par l'école ?",
-    "Reponse": "Empêchement causé par un problème accidentel dans les transports",
+    "Reponse": "Pour un empêchement causé par un problème accidentel dans les transports",
     "Commentaire": "",
     "FaussesRéponses": {
       "0": "Pour jouer à la console",
@@ -6123,8 +6343,8 @@
     "Reponse": "Non, c'est illégal",
     "Commentaire": "",
     "FaussesRéponses": {
-      "0": "Oui, c'est obligatoire",
-      "1": "Seulement le week-end",
+      "0": "Non, mais c'est toléré par la loi",
+      "1": "Non, sauf s'ils ont fait une grosse bêtise",
       "2": "Oui, avec un permis spécial",
       "3": "C'est un choix familial libre",
       "4": "Oui, s'ils font une grosse bêtise",
